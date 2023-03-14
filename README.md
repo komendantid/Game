@@ -3,8 +3,8 @@ has an animation of a farmer, as well as an eye-pleasing code design.
 Rules of the game. Your task is to guess the word randomly selected from the list, which in
 turn was created by the author of the project. If you guess, you save
 the farmer's life (the author's idea). If you don't guess, then... find out the outcome by running
-the programm.
-- After running the programm, you read the rules again, learn the subject of the list and
+the program.
+- After running the program, you read the rules again, learn the subject of the list and
 immediately enter the letter. (!hint from the author! start with vowels)
 - If the letters you have guessed are not in the word, they will automatically be
 displayed in the list in your sight.
